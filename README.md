@@ -1,4 +1,5 @@
-# MovieBank - cloned from https://github.com/danielCarlosCE/ionic-movies
+# MovieBank
+## (cloned from https://github.com/danielCarlosCE/ionic-movies)
 
 MovieBank is an app that you can explore and evaluate more than 28,000 movies. This app is developed with Ionic 4.  
 
